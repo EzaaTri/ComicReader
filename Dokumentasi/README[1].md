@@ -1,12 +1,14 @@
-# Nature Paradise
-> Nature Paradise adalah website berita tentang wisata alam yang memiliki tujuan untuk membagikan cerita, tips, dan panduan tentang destinasi wisata alam yang menakjubkan di seluruh wilayah di Indonesia.
+# ComicReader
+
+Deskripsi : Website ComicReader merupakan platform online tempat pengguna dapat membaca dan menikmati berbagai jenis komik atau novel grafis. Website ini memiliki banyak koleksi komik dari berbagai genre seperti action, drama, romance, fantasi, sejarah, dan masih banyak lagi. Pengguna dapat mencari komik favoritnya berdasarkan judul, pengarang, atau genre.  Website ini juga menyediakan fitur di mana pengguna dapat menyimpan komik favoritnya. Selain itu, situs web ini sering kali memiliki fitur komunitas di mana pengguna dapat berdiskusi dan berbagi pemikiran tentang komik yang telah mereka baca. Secara keseluruhan, situs ComicReader menawarkan cara yang nyaman dan mudah diakses untuk menikmati komik dari mana saja dan kapan saja.
+
 
 ## featur
 Sprint 1
-* Menampilkan slide rekomendasi wisata menarik saat mengeklik nav home
-* Menampilkan destinasi wisata
-* Menampilkan informasi umum
-* Menampilkan event wisata
+* Menampilkan List Comic
+* Menampilkan Halaman Comic
+* Membaca Comic
+* Login
 
 ## Keterangan Folder
 > Desain
@@ -28,8 +30,7 @@ Sprint 1
 > cara instalasi
 
 ## [Usage](#usage)
-> Kunjungi website pada halaman web nature paradise
-> Jelajahi berbagai tujuan, lihat foto, dan baca berita wisata lokal.
+> Website untuk membaca berbagai komik
 
 
 ## [Configuration](#configuration)
